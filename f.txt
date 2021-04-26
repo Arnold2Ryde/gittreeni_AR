@@ -1,3 +1,4 @@
+Tämäpä on paikallista runoilua
 <<<<<<< Updated upstream
 Tätä tiedostoa ei ole paikallisessa f.txt tiedostossa.
 What f means?
