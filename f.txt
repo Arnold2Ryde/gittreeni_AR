@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 Tätä tiedostoa ei ole paikallisessa f.txt tiedostossa.
 What f means?
+=======
+What f means? => Eipä oo tietoo!!
+>>>>>>> Stashed changes
