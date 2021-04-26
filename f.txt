@@ -1,4 +1,4 @@
-Tämäpä on paikallista runoilua
+Tämäpä on paikallista runoilua & Tämä on githupissa runoilua
 <<<<<<< Updated upstream
 Tätä tiedostoa ei ole paikallisessa f.txt tiedostossa.
 What f means?
